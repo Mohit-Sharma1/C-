@@ -1,7 +1,7 @@
-#include<iostream>
+#include<iostream>       //Headerfile
 using namespace std;
-main()
+main()                  //Program start
 {
-	for(;;)
-	cout<<"Hello World"<<endl;
+	for(;;)         //Loop Start
+	cout<<"Hello World"<<endl;   //Display the output
 }
