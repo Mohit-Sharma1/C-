@@ -1,9 +1,9 @@
-#include<iostream>
+#include<iostream>             //Headerfile
 using namespace std;
-main()
+main()                         //Program Starts
 {
-  while (1) 
-    cout<<("Hello World\n");
+  while (1)                    //loop start     
+    cout<<("Hello World\n");   //Display the output
  
   return 0;
 }
