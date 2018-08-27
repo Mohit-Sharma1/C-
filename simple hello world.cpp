@@ -1,6 +1,6 @@
-#include<iostream>
+#include<iostream>            // Headerfile
 using namespace std;
-main()
+main()                        // Starting Of the program
 {
-	cout<<"Hello World"<<endl;
+	cout<<"Hello World"<<endl;           // Display the element
 }
