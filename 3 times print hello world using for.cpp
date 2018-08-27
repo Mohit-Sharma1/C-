@@ -1,9 +1,9 @@
-#include<iostream>
+#include<iostream>          //Headerfile
 using namespace std;
-main(){
-  for  (int i=0;i<=2;i++)
+main(){                     //Program Start
+  for  (int i=0;i<=2;i++)     //Loop used
  
- 	cout<<"Hello World\n"<<endl;
+ 	cout<<"Hello World\n"<<endl;   //display the output
  
 }
 
