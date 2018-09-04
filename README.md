@@ -1,7 +1,7 @@
 # C-
 This repository contain C++ programs that are practiced by 
 
-
+##For Windows
 #Instructions to run a program:-
 
 1.) Open your IDE or any software which you want to use.
