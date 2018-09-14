@@ -14,7 +14,7 @@ int main()                              //Program starts
 	}
 	if (num[5]==num[5] )           //Conditional element used
 	
-	for(j=0;j<=8;i++){              //loop  used
+	for(j=0;j<=8;j++){              //loop  used
 	
 	for (i=0;i<5;i++){
 		
