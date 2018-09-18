@@ -20,7 +20,7 @@ int main()
 {
     char a[] = { 'A', 'B', 'C', 'D', 'E', 'F','G' };
     int n = sizeof(a) / sizeof(a[0]);
-    print(a, n, 3);
+    print(a, n, 3);                                 //Display the result
     return 0;
 }
 
