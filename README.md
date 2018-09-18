@@ -21,16 +21,16 @@ This repository contain C++ programs that are practiced by
 
 1.)Open terminal.
 
-2.)Type command to install gcc or g++ complier:
+2.)Type command to install gcc or g++ complier
 
-3.)Now go to that folder where you will create C/C++ programs. ...
+3.)Now go to that folder where you will create C/C++ programs. 
 
 4.)Open a file using any editor.
 
-5.)Add the code in the file: ...
+5.)Add the code in the file
 
 6.)Save the file and exit.
 
-7.)Compile the program using any of the following command: ...
+7.)Compile the program using any of the following command
 
-8.)To run this program type this command:
+8.)To run this program type this command
